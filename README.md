@@ -57,7 +57,7 @@ Motivated Computer Science graduate passionate about building scalable web appli
 - **Backend:** Django  
 - **Database:** MySQL, PostgreSQL, Oracle  
 - **Tools:** Git, GitHub
-- 
+  
 ---
 
 ### 📫 Contact Me
