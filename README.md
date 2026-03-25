@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karri Sai Swetha</h1>
+<!-- <h1 align="center">Hi 👋, I'm Karri Sai Swetha</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karri-sai-swetha&label=Profile%20views&color=0e75b6&style=flat" alt="karri-sai-swetha" /> </p>
@@ -23,13 +23,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karri-sai-swetha&show_icons=true&locale=en" alt="karri-sai-swetha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karri-sai-swetha&" alt="karri-sai-swetha" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karri-sai-swetha&" alt="karri-sai-swetha" /></p>  -->
 
 
 
 
 
-<!-- <h1 align="center">Hi 👋, I'm Karri Sai Swetha</h1>
+<h1 align="center">Hi 👋, I'm Karri Sai Swetha</h1>
 <h3 align="center">Aspiring Full Stack Developer | Python & Django Enthusiast</h3>
 
 <p align="center">
@@ -98,7 +98,7 @@ Motivated Computer Science graduate passionate about building scalable web appli
 
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karri-sai-swetha&" />
-</p> -->
+</p>
 
 
 
