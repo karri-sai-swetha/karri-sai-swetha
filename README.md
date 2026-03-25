@@ -54,20 +54,13 @@ Motivated Computer Science graduate passionate about building scalable web appli
 - **Frontend:** HTML, CSS  
 - **Backend:** Django  
 - **Database:** MySQL, PostgreSQL, Oracle  
-- **Tools:** Git, GitHub  
-
----
-
-### 📌 Projects
-- 🔹 **Escrowise Sentinel** – AI-based fraud detection system using NLP  
-- 🔹 **Voice-Enabled Virtual Assistant** – Desktop assistant using speech recognition  
-- 🔹 **Psychological Instability Detection System** – ML-based mental health analysis  
-
+- **Tools:** Git, GitHub
+- 
 ---
 
 ### 📫 Contact Me
 - 📧 Email: **karriswetha03@gmail.com**  
-- 💼 LinkedIn: (Update your correct LinkedIn link here)
+- 💼 LinkedIn: www.linkedin.com/in/karri-sai-swetha-183548293
 
 ---
 
