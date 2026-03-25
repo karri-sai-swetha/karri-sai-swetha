@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karri Sai Swetha</h1>
+<!-- <h1 align="center">Hi 👋, I'm Karri Sai Swetha</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karri-sai-swetha&label=Profile%20views&color=0e75b6&style=flat" alt="karri-sai-swetha" /> </p>
@@ -23,7 +23,87 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karri-sai-swetha&show_icons=true&locale=en" alt="karri-sai-swetha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karri-sai-swetha&" alt="karri-sai-swetha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karri-sai-swetha&" alt="karri-sai-swetha" /></p> -->
+
+
+
+<h1 align="center">Hi 👋, I'm Karri Sai Swetha</h1>
+<h3 align="center">Aspiring Full Stack Developer | Python & Django Enthusiast</h3>
+
+<p align="center">
+Motivated Computer Science graduate passionate about building scalable web applications and solving real-world problems using modern technologies.
+</p>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=karri-sai-swetha&label=Profile%20views&color=0e75b6&style=flat" alt="karri-sai-swetha" /> 
+</p>
+
+---
+
+### 🚀 About Me
+- 🎓 Computer Science Graduate  
+- 💻 Focused on becoming a **Full Stack Developer**  
+- 🌱 Currently learning **Django & Backend Development**  
+- 🧠 Strong interest in **Problem Solving & Logical Thinking**  
+- 🎯 Goal: To secure a role in a reputed company with impactful projects  
+
+---
+
+### 🛠️ Skills & Technologies
+- **Languages:** Python, C, JavaScript  
+- **Frontend:** HTML, CSS  
+- **Backend:** Django  
+- **Database:** MySQL, PostgreSQL, Oracle  
+- **Tools:** Git, GitHub  
+
+---
+
+### 📌 Projects
+- 🔹 **Escrowise Sentinel** – AI-based fraud detection system using NLP  
+- 🔹 **Voice-Enabled Virtual Assistant** – Desktop assistant using speech recognition  
+- 🔹 **Psychological Instability Detection System** – ML-based mental health analysis  
+
+---
+
+### 📫 Contact Me
+- 📧 Email: **karriswetha03@gmail.com**  
+- 💼 LinkedIn: (Update your correct LinkedIn link here)
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINK" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### 🧰 Languages and Tools
+<p align="left"> 
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+<a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karri-sai-swetha&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=karri-sai-swetha&show_icons=true&locale=en" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karri-sai-swetha&" />
+</p>
 
 
 
